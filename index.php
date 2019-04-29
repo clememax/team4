@@ -16,6 +16,15 @@ echo'Salut';
 </head>
 
 <body>
-    
+    <header>
+        <nav>
+            <div class="topnav">
+            <a href="#">Home</a>
+            <a href="#">Machin</a>
+            <a href="#">Truc</a>
+            <a href="#">Contact</a>
+            </div>
+        </nav>
+    </header>
 <h1>holyooooooo!!!!!</h1>
 </body>
